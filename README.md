@@ -1,5 +1,4 @@
 AI-Powered Voice Assistant
-
 This project implements a simple AI-powered voice assistant using Python, allowing users to give voice commands for tasks like playing music, opening the calculator, and opening WhatsApp. The assistant uses speech recognition, text-to-speech, and web automation to perform tasks based on voice input.
 
 Features
